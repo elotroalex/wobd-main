@@ -4,10 +4,10 @@
     <title>Who Owns Black Data?</title>
     <description>A conference series on stewarding the historical and cultural record of Black life in the Americas.
 </description>
-    <link>http://localhost:4000/inaugural/</link>
-    <atom:link href="http://localhost:4000/inaugural/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Feb 2025 12:23:23 -0500</pubDate>
-    <lastBuildDate>Wed, 19 Feb 2025 12:23:23 -0500</lastBuildDate>
+    <link>https://wobd.blackbeyonddata.org/</link>
+    <atom:link href="https://wobd.blackbeyonddata.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 30 Mar 2024 01:05:08 -0400</pubDate>
+    <lastBuildDate>Sat, 30 Mar 2024 01:05:08 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
   </channel>
